@@ -8,5 +8,5 @@
 почта капитана — alexytchursin@yandex.ru
 
 Ссылки на источники: 
-URL: https://usamodelkina.ru/14596-appararura-radioupravlenija-na-arduino.html : сайт. – 2009-2022 – . – (дата обращения 03.12.2022)
-URL: https://electronoobs.com/eng_arduino_tut86.php
+https://usamodelkina.ru/14596-appararura-radioupravlenija-na-arduino.html
+https://electronoobs.com/eng_arduino_tut86.php
